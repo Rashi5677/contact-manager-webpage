@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  font-weight:600;
+  font-size:larger;
+  border:solid 2px ;
+  background-color:#8E0625;
+  color:white;
+  text-align:center;
+}
+.formHeader
+{
+  margin-top:5px;
+margin-left:12px;
+}
+.input{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.add-contact
+{
+  border:solid 2px black;
+  margin-top:5px;
+  font-size:initial;
+  font-weight:900;
+  font-family:fantasy;
+  margin-left:12px;
+}
+.btn{
+  margin-top:5px;
+  border:solid 2px grey;
+  color:#8E0625;
+}
+.ContactHeader{
+  border:2px solid;
+  font-size:medium;
+  font-weight:bold;
+  font-family:system-ui;
+  margin-left:10px;
+  margin-top:10px;
+}
+.contacts{
+display:flex;
+justify-content:space-between;
+border:2px solid;
+background:#FDEFF2;
+margin-bottom:2px;
+margin-left:12px;
+margin-right:5px;
+}
+.email{
+  padding-top:5px;
+  margin-top:5px;
+  font-size:x-medium;
+}
